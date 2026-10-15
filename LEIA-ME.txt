@@ -1,0 +1,9 @@
+H741 LEÃO — VISUALIZADOR ESTRUTURAL 3DELTA
+
+Envie TODOS os arquivos desta pasta para a raiz do repositório engenharia-ui/H741--LEAO.
+Configure Pages: Deploy from branch -> main -> /(root).
+A logo oficial é carregada diretamente do arquivo original no repositório 3deltaengenharia/modelo-h741.
+Conexão à internet necessária para as bibliotecas, WASM e logo.
+O IFC original foi compactado sem alteração geométrica ou de propriedades.
+Após publicar, atualize com Ctrl+Shift+R.
+Se a orientação continuar inesperada, confira as vistas 3D e frontal e envie captura de ambas.
